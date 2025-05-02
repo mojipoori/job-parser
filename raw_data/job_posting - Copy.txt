@@ -1,0 +1,155 @@
+IT & Softwareentwickler Jobs mit Gehalt in Deutschland
+Jobs
+Transparente Arbeitgeber
+Talent Directory
+Gehälter 
+Community 
+Andere Länder 
+FAQ
+Über uns
+English language optionGerman language option
+Salary stats
+Karte verstecken
+IT & Softwareentwickler Stellen in Deutschland
+C / C++
+  
+C#.NET
+  
+Data
+  
+Golang
+  
+Java
+  
+JavaScript
+  
+Mobile
+  
+PHP
+  
+Python
+  
+Ruby
+  
+SAP
+  
+System
+  
+DevOps
+  
+IT
+  
+Database
+  
+QA, Test
+  
+ML, AI
+  
+Security
+  
+Network
+  
+GameDev
+  
+Blockchain
+  
+UX, UI
+  
+Architect
+  
+Business
+  
+Manager
+  
+Support
+  
+Rust
+  
+Hardware
+  
+No-Code
+ 
+Sanitätshaus Aktuell AG jobs
+Frontend Developer (m/w/d)
+40.000 - 65.000 EUR
+Sanitätshaus Aktuell AG
+Auf d. Höhe 50, Vettelschoß
+Unternehmensgrösse icon
+Unternehmensgrösse
+50-200
+Unternehmenstyp icon
+Unternehmenstyp
+Product
+Erfahrungsstufe icon
+Erfahrungsstufe
+Regular
+Anstellungsart icon
+Anstellungsart
+Vollzeit
+Sprache icon
+Sprache
+Deutsch
+Visa Sponsoring icon
+Visa Sponsoring
+Nein
+Anforderungen
+Muss:
+• Technisches Know-how: Du hast ein Studium in Informatik, Medieninformatik oder eine vergleichbare Ausbildung abgeschlossen – oder einfach genug praktische Erfahrung, um uns zu überzeugen.
+• Moderne Frontend-Technologien: Vue.js mit Nuxt.js oder React sind dein Zuhause, und mit Tailwind CSS bringst du Designs zum Strahlen.
+• Responsives Design: Du entwickelst mobile-first Webanwendungen und kennst dich bestens mit HTML, CSS und JavaScript aus.
+• Effiziente Entwicklungsmethoden: Git, CI/CD und andere moderne Tools sind für dich keine Fremdwörter, sondern gehören zu deinem Workflow.
+• Schnittstellen-Integration: Du hast Erfahrung mit RESTful APIs und weißt, wie du sie in Frontend-Anwendungen sinnvoll einbindest.
+• Teamplayer mit Drive: Du arbeitest gerne im Team, kommunizierst klar und hast Spaß daran, strukturiert und selbstständig an Projekten zu arbeiten.
+• Du erfüllst nicht jede Anforderung zu 100%? Kein Problem! Wenn du motiviert bist und Lust hast, dich weiterzuentwickeln, freuen wir uns trotzdem auf deine Bewerbung.
+Technologien 
+Backend
+CI/CD
+CSS
+Frontend
+Git
+JavaScript
+Mobile
+React
+Vue
+UX UI Design
+Verantwortlichkeiten
+• Kreiere beeindruckende Webanwendungen! Entwickle und implementiere moderne, leistungsstarke Anwendungen mit Vue.js und Nuxt.js oder React, die Nutzer begeistern.
+• Gestalte großartige User Experiences! Erschaffe ansprechende, intuitive Benutzeroberflächen mit Fokus auf UX und UI-Design, die sich nicht nur gut anfühlen, sondern auch visuell überzeugen.
+• Arbeite Hand in Hand mit Profis! In enger Zusammenarbeit mit Designern und Backend-Entwicklern optimierst du die Anwendungsarchitektur und sorgst für reibungslose Abläufe.
+• Bringe Designs zum Leben! Setze responsive Designprinzipien um und stelle sicher, dass UI/UX-Konzepte technisch optimal umgesetzt werden.
+• Wachse mit uns! Teile dein Wissen durch Code-Reviews, fördere Best Practices und entwickle dich kontinuierlich weiter.
+• Gestalte die Zukunft mit! Arbeite an der Weiterentwicklung bestehender Anwendungen, bringe neue Features ein und hinterlasse deinen persönlichen Fingerabdruck im Code.
+Beschreibung
+• Gestalte die Zukunft mit uns! Du übernimmst Verantwortung in einem der größten Digitalisierungsprojekte der Sanitätshausbranche – mit echtem Impact und spannenden Herausforderungen.
+• Arbeiten mit Leidenschaft! Dich erwartet ein engagiertes Team, das Innovation liebt, sich gegenseitig unterstützt und gemeinsam Großes erreicht.
+• Wachse mit uns! Wir bieten dir nicht nur spannende Aufgaben, sondern auch Raum für deine persönliche und fachliche Entwicklung.
+• Mehr für deine Mobilität! Mit einem Deutschlandticket – wir unterstützen dich, auf dem Weg zur Arbeit.
+• Für deine Zukunft sorgen wir mit! Profitiere von einer betrieblichen Altersvorsorge mit hohem Arbeitgeberzuschuss.
+• Work from anywhere! Bis zu zwei Mal im Jahr kannst du eine Workation in Europa oder einer Zeitzone mit ähnlicher Zeit nutzen – Arbeiten, wo es dir am besten gefällt!
+• Gestalte die Unternehmenskultur mit! Deine Ideen, Werte und Bedürfnisse zählen – gemeinsam formen wir eine Umgebung, in der sich jeder wohlfühlt.
+• Best of both worlds! Arbeite in unserem modernen Büro im Herzen von Köln oder genieße die Freiheit von regelmäßigen Remote-Tagen.
+• Klingt gut? Dann bewirb dich und werde Teil unseres Teams!
+
+Über uns
+Willkommen bei joviva, einem corporate Startup mit Sitz in Köln, dass am digitalen Sanitätshaus der Zukunft arbeitet. Unsere Vision ist es, die Hilfsmittelbeschaffung 'attraktiv und unkompliziert' zu gestalten. Als eine Tochtergesellschaft der Sanitätshaus Aktuell AG mit über 780 Standorten in Deutschland und mehr als 40 Jahren Markterfahrung, setzen wir auf eine starke Basis. Unser Fokus liegt darauf, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und dabei innovative Ideen und digitale Technologien zu integrieren.
+
+In einem jungen Unternehmen, wie unserem, engagiert sich ein leidenschaftliches Team mit dem Ziel, die Chancen des digitalen Wandels optimal zu nutzen. Unser Ziel ist es, etwas 'Großes' zu bewirken und vielen Menschen in Deutschland dabei zu helfen, ihren Alltag zu erleichtern und wieder aktiv am Leben teilzunehmen.
+
+Fühlst du dich angesprochen? Möchtest du Teil einer dynamischen Reise sein, die Grenzen dessen, was ein Sanitätshaus sein kann, neu definieren? Dann lass uns gemeinsam den Unterschied schaffen. Deine Gelegenheit, Teil unseres Teams zu werden und somit zur Verwirklichung unserer ehrgeizigen Ziele beizutragen, wartet auf dich!
+job benefits icon
+Internationales Team
+job benefits icon
+Cooles Büro
+job benefits icon
+Jobticket
+job benefits icon
+Hybride Arbeit
+job benefits icon
+Home Office / Remote 3 Tage pro Woche
+Stimmt etwas mit diesem Job nicht? Sag es uns im Chat 💬 rechts ➡️
+IT & Softwareentwickler Stellen in DeutschlandJavaScript Entwickler Stellen in DeutschlandJavaScript Entwickler Stellen Cologne
+ 
++
+−
+ Leaflet | © OpenStreetMap contributors
+Wir verwenden Cookies 🍪, um Ihre Benutzererfahrung zu verbessern. Weitere Informationen finden Sie in unseren Datenschutzbestimmungen. Sie können die Einstellungen ändern, indem Sie den Anweisungen in der Cookie-Richtlinie folgen.

@@ -1,0 +1,72 @@
+logo
+ See all jobs
+AI Automation Specialist / AI Developer für Business Prozesse (m/w/d)
+Permanent employee, Full-time · München
+60,000 - 80,000 € per year
+Read job description in: German 
+MOVE DIFFERENT
+Wir sind ein innovatives Startup, das die Art und Weise, wie Menschen Fahrzeuge erleben und teilen können, revolutioniert.
+DEINE MISSION
+Wenn du als Ai Automation Specialist (m/w/d) mit Leidenschaft für Technologie, Mobilität und Fahrfreude mit uns die Zukunft des Carsharings und digitaler Autovermietung gestalten möchtest, dann bist du bei uns genau richtig!
+FREU DICH AUF
+Die Möglichkeit, maßgeblich die Digitalisierung und Automatisierung in einem zukunftsorientierten Unternehmen voranzutreiben
+Zugriff auf modernste Technologien und Tools zur Umsetzung Deiner Ideen
+Flexible Arbeitszeiten und Remote-Arbeitsmöglichkeiten
+Ein motiviertes Team, das Innovationen liebt und bereit ist, neue Wege zu gehen
+Persönliche und berufliche Weiterbildungsmöglichkeiten
+DEINE AUFGABEN BEI UNS
+Entwicklung und Implementierung von AI-gestützten Customer-Care-Lösungen:
+Aufbau und Optimierung von KI-Bots für Text- und Telefonanfragen, um einen automatisierten und personalisierten Kundenservice bereitzustellen
+Integration von Tools wie Zendesk, Twilio oder anderen Customer-Care-Plattformen mit OpenAI-APIs und anderen KI-Services
+Erstellung und Pflege von Wissensdatenbanken, die als Grundlage für effektive und präzise KI-Interaktionen dienen
+Analyse und Optimierung von Geschäftsprozessen:
+Identifikation von Automatisierungspotenzialen in verschiedenen Unternehmensbereichen wie Vertrieb, Buchhaltung, Logistik und Kundenservice
+Entwicklung maßgeschneiderter Automatisierungslösungen unter Einsatz von KI, APIs und anderen Technologien
+Überwachung der Performance aller Geschäftsprozesse und kontinuierliche Optimierung
+Technische Entwicklung und Implementierung:
+Programmierung und Bereitstellung von Automatisierungen und KI-Workflows, z. B. durch Nutzung von Python, Node.js oder anderen gängigen Technologien
+Aufbau und Verwaltung von Datenpipelines und Integrationen zwischen verschiedenen Softwarelösungen und Plattformen
+Sicherstellung von Skalierbarkeit und Stabilität der entwickelten Lösungen
+Zusammenarbeit und Wissensmanagement:
+Zusammenarbeit mit Teams aus unterschiedlichen Abteilungen, um Anforderungen zu verstehen und in technische Lösungen umzusetzen
+Aufbau und Pflege einer strukturierten Wissensdatenbank, die von KI-Bots genutzt wird, um hochwertige Ergebnisse zu liefern
+Schulung interner Mitarbeiter in der Nutzung der entwickelten Systeme
+SO ÜBERZEUGST DU
+Berufserfahrung:
+Abgeschlossenes Studium in Informatik, Künstlicher Intelligenz, Data Science oder einem verwandten Bereich
+2–5 Jahre Erfahrung in der Entwicklung von Automatisierungslösungen und KI-Integration mit Schwerpunkt auf der Optimierung von Geschäftsprozessen und API-gestützten Workflows
+Du verfügst über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift
+Technisches Know-how:
+Fundierte Programmierkenntnisse (z. B. Python, Node.js, JavaScript oder vergleichbare Sprachen)
+Erfahrung mit API-Integrationen (z. B. Zendesk, Twilio, OpenAI, Google APIs)
+Verständnis für Datenbanken (SQL, NoSQL) und deren Strukturierung
+Erfahrung mit Automatisierungsplattformen wie Zapier, Make (ehemals Integromat), oder Custom-Scripting
+KI-Expertise:
+Erfahrung im Umgang mit KI-Services (z. B. OpenAI, Google Dialogflow, Microsoft Bot Framework)
+Kenntnisse in der Erstellung und Optimierung von Wissensdatenbanken und Training von Machine-Learning-Modellen
+Interesse an den neuesten Entwicklungen im Bereich künstliche Intelligenz und Automatisierung
+Analytische Fähigkeiten:
+Fähigkeit, komplexe Geschäftsprozesse zu analysieren und pragmatische Lösungen zu entwickeln
+Verständnis für die Strukturierung von Wissen und die effektive Nutzung von Daten für KI-gestützte Anwendungen
+Soft Skills:
+Eigenverantwortliches Arbeiten und die Motivation, innovative Ideen umzusetzen
+Kommunikationsstärke und Teamfähigkeit
+Bereitschaft, sich ständig weiterzubilden und neue Technologien zu erlernen
+HAST DU FRAGEN?
+Dann melde dich bei unserem HR-Team: jobs@carvia.de
+Zum Schutz deiner Daten bitten wir dich, dich nur über unsere Bewerbungsseite der Stelle zu bewerben – Bewerbungen per E-Mail können wir leider nicht bearbeiten.
+Apply for this job
+Über uns
+Start-up im Wachstum – Wir sind ein junger und schnell wachsender Mobilitätsdienstleister mit Hauptsitz in München. In den Bereichen Carsharing, Tagesvermietung und Monatsabos ermöglichen wir unseren Kunden die Anmietung von Fahrzeugen von einer Minute bis zu einem Monat per Smartphone. Und das mit einer ganz besonderen Flotte.
+
+Du willst die Zukunft der Mobilität gestalten?
+
+Dann freue Dich auf unser Team. Wir sind innovativ und dynamisch, aber genauso präzise wie durchsetzungsstark. Werde Teil eines elitären Teams, in dem jedes Mitglied gefördert und gefordert wird. Uns zeichnet ein starker Zusammenhalt aus sowie die Möglichkeit, nicht nur schnell aufzusteigen, sondern ganz verrückte Ideen gemeinsam zu entwickeln. Denn als First-Mover müssen wir neue Ideen entdecken und verwirklichen. Du bist ehrgeizig und willst wirklich etwas verändern, dann melde Dich gerne bei uns. Wir freuen uns darauf!
+
+Du hast noch keinen CarVia Share Account? Mit dem Code CarVia10 erhältst du jetzt bei deiner Neuregistrierung 10 Freiminuten als Startguthaben!
+Apply for this job
+footer logo Powered by Personio  |  personio.com
+Browse this site in
+
+English
+Data privacy statement  |  Legal Notice
